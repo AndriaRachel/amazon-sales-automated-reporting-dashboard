@@ -9,6 +9,10 @@ The dashboard provides an interactive way to analyze Amazon sales data using Piv
 This project is part of my learning journey as I continue building practical data analytics projects and improving my Excel skills.
 
 ---
+## Dashboard Preview
+
+![Amazon Dashboard](<img width="872" height="471" alt="amazon_workbook image" src="https://github.com/user-attachments/assets/1265191a-8e2d-44c5-b49f-72b7ec746d01" />
+)
 
 ## Features
 
