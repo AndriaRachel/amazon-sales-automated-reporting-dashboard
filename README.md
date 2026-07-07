@@ -9,10 +9,6 @@ The dashboard provides an interactive way to analyze Amazon sales data using Piv
 This project is part of my learning journey as I continue building practical data analytics projects and improving my Excel skills.
 
 
-## Dashboard Preview
-
-![Amazon Dashboard](amazon_workbook image.png)
-
 ## Features
 
 - Interactive dashboard built entirely in Microsoft Excel
